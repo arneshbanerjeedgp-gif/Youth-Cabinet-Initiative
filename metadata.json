@@ -1,0 +1,6 @@
+{
+  "name": "Youth Cabinet",
+  "description": "A modern, premium student leadership initiative website for the Youth Cabinet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
